@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**camilogcautomatizacion/camilogcautomatizacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Offensive Security focused on Web Pentesting and Red Team fundamentals.
+I practice real-world attack scenarios using vulnerable labs and intentionally insecure applications.
+My goal is to build practical, monetizable security skills through hands-on exploitation and documentation.
 
-Here are some ideas to get you started:
+## 🔐 Focus Areas
+- Web Application Pentesting (OWASP Top 10)
+- Linux & Network Enumeration
+- Vulnerability Analysis & Exploitation
+- Basic Automation for Security Tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Practical Experience
+- DVWA
+- OWASP Juice Shop
+- Metasploitable 2
+- Root-me / HackMyVM (beginner labs)
+
+> All activities are performed exclusively in legal, intentionally vulnerable environments.
+
+## 🛠 Technical Skills
+- Linux (CLI, permissions, processes)
+- Networking fundamentals (TCP/IP, ports, DNS)
+- Web technologies (HTTP, cookies, sessions)
+- Tools: Burp Suite, Nmap, Nikto, Gobuster
+- Scripting: Bash (basic), Python (basic)
+
+## 🎯 Current Goal
+Actively building a public pentesting portfolio and open to junior freelance opportunities
+related to security, web testing, and technical analysis.
+
+## ⚠️ Disclaimer
+All content shared in this profile is for educational purposes only and based on authorized lab environments.
