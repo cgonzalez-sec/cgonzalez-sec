@@ -1,50 +1,57 @@
 # 👋 About Me
 
-Cybersecurity learner focused on Blue Team operations and network traffic analysis.
+Cybersecurity learner focused on offensive security, web application testing and practical lab environments.
 
-Currently developing practical defensive skills by analyzing network behavior, identifying suspicious activity, and understanding how real-world connections work at the protocol level.
+Currently developing hands-on skills through platforms and vulnerable systems such as DVWA, OWASP Juice Shop and Metasploitable, with an emphasis on understanding how vulnerabilities work, how insecure logic is exploited and how applications handle user input.
 
-My training focuses on hands-on practice and documentation through security labs.
+My training focuses on practical repetition, technical documentation and structured methodology building through real lab practice.
 
 ---
 
-# 🔐 Focus Areas
+# 🎯 Focus Areas
 
-• Network Traffic Analysis  
-• DNS & TCP Connection Investigation  
-• TLS Encrypted Traffic Understanding  
-• Blue Team Fundamentals  
-• Linux & Networking  
+- Web Application Security
+- SQL Injection & Web Exploitation
+- Linux Fundamentals
+- Networking Fundamentals
+- HTTP Requests & Input Handling
+- Burp Suite & Manual Testing
+- Pentesting Methodology
 
 ---
 
 # 🧪 Practical Labs
 
-Documented security exercises and analysis:
+Documented offensive security exercises and analysis:
 
-• Network traffic analysis with Wireshark  
-• DNS resolution investigation  
-• TCP handshake analysis  
-• HTTPS encrypted connection inspection  
+- DVWA security labs
+- OWASP Juice Shop challenges
+- Metasploitable2 practice
+- Web vulnerability analysis
+- Request manipulation & input testing
+- Enumeration and reconnaissance exercises
 
-All activities are performed in controlled lab environments.
+All activities are performed in controlled and authorized lab environments.
 
 ---
 
 # 🛠 Technical Skills
 
-• Linux  
-• Networking Fundamentals (TCP/IP, Ports, DNS)  
-• Wireshark  
-• Basic Bash & Python  
+- Linux
+- Networking Fundamentals (TCP/IP, DNS, HTTP)
+- Burp Suite
+- Wireshark
+- Basic Bash & Python
+- Git & GitHub
+- Web Application Testing
 
 ---
 
-# 🎯 Current Goal
+# 🚀 Current Goal
 
-Building a practical Blue Team portfolio focused on network traffic analysis and detection.
+Building a strong offensive security foundation through practical labs, methodology documentation and consistent technical practice.
 
-Long-term objective: specialize in Cloud Security and defensive infrastructure protection.
+Long-term objective: grow into advanced web application security and professional penetration testing.
 
 ---
 
